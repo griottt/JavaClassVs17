@@ -7,7 +7,6 @@ package ParteII.Aula04.vetClinic;
 // metodo 3 --> realizarConsulta(Animal, String, String)
 public class Veterinario {
     private String nome;
-
     public Veterinario(String nome) {
         this.nome = nome;
     }
